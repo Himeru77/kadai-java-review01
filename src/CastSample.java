@@ -10,7 +10,7 @@ public class CastSample {
         System.out.println(a / b);
 
         // int型変数aを一時的にdouble型に型変換して除算する（結果は、double型）
-        System.out.println((double) a / b);
+        System.out.println((double) 10 / 100);
 
         // int型同士の除算をした結果（int型）をdouble型に型変換
         System.out.println((double) (a / b));
